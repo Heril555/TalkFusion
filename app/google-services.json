@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079474661964",
+    "project_id": "talkfusion-356a7",
+    "storage_bucket": "talkfusion-356a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079474661964:android:4da0c82b13e3f4360b62e9",
+        "android_client_info": {
+          "package_name": "com.heril.talkfusion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079474661964-0qc6ka0mu2blor2egst9o31d3don78c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heril.talkfusion",
+            "certificate_hash": "0293c48340071ba61b65b4cdb3d10749c12d8e25"
+          }
+        },
+        {
+          "client_id": "1079474661964-sqfsmjc10vv2f6d9k8d7urtnhkagriqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGFTE2Wjd8y1CFjXmS7MBKwJOVNnvTRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079474661964-sqfsmjc10vv2f6d9k8d7urtnhkagriqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
